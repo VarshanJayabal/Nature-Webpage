@@ -1,0 +1,11 @@
+
+.a{padding: 10px;}
+.b{font-size:60px;font-weight: bolder;}
+.c{font-size:55px;font-family:sans-serif;}
+p{line-height: 0.6;}
+.d{line-height: 1.5;font-family: serif;}
+.e{font-family:'Times New Roman', Times, serif;background-color: darkseagreen;border-radius: 20px;width:150px;height:20px;color: white;text-align: center;padding-top:20px;}
+body{ 
+    background-image: url("https://media.istockphoto.com/id/96420246/vector/cartoon-beach-in-brazil.jpg?s=612x612&w=0&k=20&c=vM3WxY9hol3dMe8XlU0RScTbAghTsXoqmrYjMccy1ak=");
+    background-repeat:no-repeat;background-size:cover;
+ }
